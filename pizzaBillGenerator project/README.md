@@ -1,6 +1,6 @@
-🍕 Java Pizza Order System
+🍕 Java Pizza Order System.
 A simple console-based Java application that simulates a pizza ordering system, built with Object-Oriented Programming (OOP) principles. This project demonstrates real-world class design using inheritance, encapsulation, and method overriding.
-🔧 Technologies & Concepts Used
+🔧 Technologies & Concepts Used:-
 Java – Core Java programming
 Object-Oriented Programming
 Classes and Objects
@@ -10,15 +10,15 @@ Method Overriding
 Command Line Interface (CLI) – Console-based input/output
 Modular Design – Separate classes for each component
 VS Code with Java Extensions – Project structure managed via settings.json
-📂 Project Structure
+📂 Project Structure(
 ├── src/
 │   ├── Main.java         // Main entry point
 │   ├── pizza.java        // Base Pizza class with pricing and toppings
 │   └── DeluxPizza.java   // Subclass with deluxe toppings included
 ├── lib/                  // (Optional) External JAR dependencies
 ├── bin/                  // Compiled output
-└── README.md
-🚀 Features
+└── README.md )
+🚀 Features:-
 Order a regular or deluxe pizza
 Add extra cheese or toppings
 Print a final bill with itemized prices
